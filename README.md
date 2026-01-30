@@ -3,7 +3,7 @@
 **End-to-End Healthcare BI Solution**  
 **Power BI | 10,000 Patients | 2024–2025 Data** | Real-World Hospital Insights
 
-![Hospital Dashboard Overview](link-to-main-overview-screenshot.png)  
+![](https://i0.wp.com/thedeveloperyt.com/wp-content/uploads/2025/05/Hospital_Dashboard-2_page-0001.jpg?fit=2075%2C1200&ssl=1)
 *(Add your best combined screenshot or collage here)*
 
 ## Project Overview
@@ -37,6 +37,8 @@
 ### 1. Appointments, Billing & Payments Dashboard
 **Focus:** Revenue generation, appointment types, payment status & collection efficiency
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213731.png)
+
 **Key Metrics**  
 - Total Appointments: 10,000  
 - Total Revenue: ₹49 Million
@@ -55,6 +57,7 @@
 ### 2. Resource Utilization Dashboard
 **Focus:** Bed, equipment & department-wise occupancy & availability
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213710.png)
 **Key Metrics**  
 - Total Resources Tracked: 300+ (69 Beds, 64 CT Scans, 54 ECGs, 59 Ventilators, 54 MRIs)  
 - Occupied Resources: 156
@@ -73,6 +76,7 @@
 ### 3. Patient Admission & Disease Analysis Dashboard
 **Focus:** Disease prevalence, gender & city-wise patient distribution
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213616.png)
 **Key Metrics**  
 - Total Patients: 10,000  
 - Average Patient Age: 45.69 years
@@ -91,6 +95,7 @@
 ### 4. Geographic & Patient Distribution Dashboard
 **Focus:** City-level patient load, gender & disease breakdown
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213819.png)
 **Main Visuals**  
 - Count of Patients by City (Bar Chart)  
 - Stacked Bar: Disease distribution by City  
@@ -104,6 +109,7 @@
 ### 5. Patient Stay & Hospital Efficiency Dashboard
 **Focus:** Length of Stay (LOS), billing & yearly admission trends
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213754.png)
 **Key Metrics**  
 - Total Length of Stay (Sum): 106K–213K days (across visuals)  
 - Average LOS varies by disease (5–10 days)
@@ -121,6 +127,8 @@
 ### 6. Hospital Overview Dashboard
 **Focus:** High-level KPIs & demographic summaries
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20194418.png)
+
 **Key Metrics**  
 - Patients: 10K | Appointments: 10K | Doctors: 10K | Revenue: ₹49M
 
@@ -132,6 +140,7 @@
 ### 7. Doctor Performance Dashboard
 **Focus:** Doctor-wise patient load, stay duration & experience
 
+![](https://github.com/Shital9090/Hospital_Operations_Analytics/blob/main/Power%20bi%20Unguided/Screenshot%202026-01-04%20213643.png)
 **Key Metrics**  
 - Avg Length of Stay (overall): 10.64 days  
 - Avg Experience: 20.76 years
